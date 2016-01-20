@@ -1,0 +1,24 @@
+
+
+ORM的优缺点 
+http://blog.csdn.net/sgear/article/details/7408251
+
+
+
+面向切面编程
+http://blog.csdn.net/Intlgj/article/details/5671248
+
+
+
+.NET通用权限系统快速开发框架
+http://www.uimaker.com/plus/view.php?aid=74633
+
+
+
+十大开源的.NET用户界面框架 让GUI设计不再犯难
+http://www.evget.com/article/2014/3/17/20674.html
+
+
+
+.net最新ui框架
+http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=monline_4_dg&wd=.net%E6%9C%80%E6%96%B0ui%E6%A1%86%E6%9E%B6&oq=ms%E6%9C%80%E6%96%B0ui%E6%A1%86%E6%9E%B6&rsv_pq=fe6bcdab000a35ce&rsv_t=04b1lvzKxBf9hNWYNppc3MiDGRb69tBUAA3GPHgBpcPFkBTLpYvslVQ606n5GXk5xGMP&rsv_enter=1&rsv_sug3=5&rsv_sug2=0&rsv_sug7=000&inputT=1386&rsv_sug4=1800
